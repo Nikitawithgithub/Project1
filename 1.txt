@@ -1,1 +1,2 @@
 This is the 1st txt file.
+Today is Wednesday the 24th.
